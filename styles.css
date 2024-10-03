@@ -1,3 +1,5 @@
+body {margin: 0;}
 header {background-color: purple;}
 main {background-color: blue;}
 footer {background-color: aliceblue;}
+ul {margin: 0;}
